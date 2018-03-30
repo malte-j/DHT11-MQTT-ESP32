@@ -5,7 +5,7 @@
 DHT dht;
 
 const char ssid[] = "EnlightedBASE";
-const char pass[] = "8921539555159684";
+const char pass[] = "REDACTED";
 
 WiFiClient net;
 MQTTClient client;
